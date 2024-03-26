@@ -14,23 +14,21 @@ Here are some ideas to get you started:
 -->
 👋 Hi, I’m @CarolGandolfi
 
-Studying engineering college at IME;
-20 years old;
+Software engineering student @ IME;
 
 👀 I’m interested in ...
 
+SQL;
 React;
 JS (JavaScript ES6);
 HTML/CSS;
+AWS;
+
 
 🌱 I’m currently learning ...
 
-JavaScript ES6 syntax;
+Next;
 
-💞️ I’m looking to collaborate on ...
-
-Build my portifolio;
-Work on a big project;
 
 📫 How to reach me ...
 
