@@ -32,5 +32,4 @@ Next;
 
 📫 How to reach me ...
 
-Phone: +55 (41) 996983664
 Email: caroline.gandolfi29@gmail.com;
